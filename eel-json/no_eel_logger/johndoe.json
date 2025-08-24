@@ -1,0 +1,10 @@
+{
+  "name": "John Doe",
+  "age": 18,
+  "email": "John@doe.com",
+  "skills": ["Engineering", "Culinary Arts"],
+  "profile": {
+    "bio": "Happily married to Jane Doe.",
+    "experience_years": 5
+  }
+}
